@@ -1,3 +1,6 @@
 [submodule "WebServer/ProxyServer"]
 	path = WebServer/ProxyServer
 	url = https://github.com/whatDeepak/ProxyServer.git
+[submodule "Provisioning/Terraform"]
+	path = Provisioning/Terraform
+	url = https://github.com/whatDeepak/Terraform.git
