@@ -4,6 +4,6 @@
 [submodule "Provisioning/Terraform"]
 	path = Provisioning/Terraform
 	url = https://github.com/whatDeepak/Terraform.git
-[submodule "Kubernetes"]
-	path = Kubernetes
+[submodule "Orchestration/Kubernetes"]
+	path = Orchestration/Kubernetes
 	url = https://github.com/whatDeepak/Kubernetes.git
